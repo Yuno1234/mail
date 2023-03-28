@@ -3,15 +3,6 @@ from django.db import models
 
 
 class User(AbstractUser):
-    """
-    Superuser
-        username & email: arakawayunosuke1@gmail.com
-        password: yuno0606
-
-    User
-        shun@gmail.com: 0225
-
-    """
     pass
 
 
